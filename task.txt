@@ -1,0 +1,13 @@
+Create Dashboard#Brad#peter#Open#2021-04-12#Feature#Create console for debugging, Low#
+Fix mysql issue#Ryan#Ryan#In progress#2021-04-14#Bug#P0#Sprint-1
+Create a microservice#Amy#Ryan#Completed#2021-03-12#Story#Add logging to the feature#Sprint-1
+Setup console#Ryan#Ryan#In progress#2021-04-14#Feature#Create console for debugging, High#
+Console api#Ryan#Ryan#In progress#2021-04-14#Feature#Create api for console , High#
+
+
+
+Development#Open#Create a microservice
+Unit Test#Open#Create a microservice
+Integration Test#Open#Create a microservice
+
+
